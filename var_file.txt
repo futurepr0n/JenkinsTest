@@ -1,2 +1,2 @@
-PAST_EVENTS = 531
-SCHED_EVENTS = 9
+export PAST_EVENTS = "531"
+export SCHED_EVENTS = "9"
